@@ -5,6 +5,8 @@ ruby "1.9.3"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
+gem 'sinatra', '1.0'
+gem 'taps', '0.3.24'
 # Use pg as the database for Active Record
 gem 'pg'
 gem "heroku", "~> 3.3.0"

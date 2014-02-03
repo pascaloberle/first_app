@@ -33,7 +33,6 @@ gem 'taps', '~> 0.3.24'
 
 gem 'sinatra', '1.0.0'
 
-gem "heroku", "~> 3.3.0"
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
